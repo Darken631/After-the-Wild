@@ -1,0 +1,430 @@
+2100000 = {
+	name = "Hyrule"
+	used_for_random = no
+	culture = "royal_hylians"
+	religion = "faith_of_the_golden_goddesses"
+}
+2100001 = {
+	name = "of Hateno"
+	culture = "hylians"
+	relgion = "faith_of_the_golden_goddesses"
+}
+2100002 = {
+	name = "of Zora's Domain"
+	culture = "zora"
+	religion = "faith_of_the_golden_goddesses"
+}
+2100003 = {
+	name = "of Kakariko"
+	culture = "sheika"
+	religion = "faith_of_the_golden_goddesses"
+}
+2100004 = {
+	name = "of Gerudo Town"
+	culture = "gerudo"
+	religion = "faith_of_the_golden_goddesses"
+}
+2100005 = {
+	name = "of Goron City"
+	culture = "goron"
+	religion = "faith_of_the_golden_goddesses"
+}
+2100006 = {
+	name = "of Kara Kara"
+	culture = "gerudo"
+	religion = "faith_of_the_golden_goddesses"
+}
+2100007 = {
+	name = "of Lurelin"
+	culture = "hylians"
+	religion = "faith_of_the_golden_goddesses"
+}
+2100008 = {
+	name = "of Rito Village"
+	culture = "rito"
+	religion = "faith_of_the_golden_goddesses"
+}
+2100009 = {
+	name = "of Tarrey"
+	culture = "hylians"
+	culture = "rito"
+	culture = "goron"
+	culture = "gerudo"
+	culture = "zora"
+	religion = "faith_of_the_golden_goddesses"
+}
+2100010 = {
+	name = "of Akkala"
+	culture = "hylians"
+	culture = "rito"
+	culture = "goron"
+	culture = "gerudo"
+	culture = "zora"
+	culture = "sheika"
+}
+2100011 = {
+	name = "of Eldin"
+	culture = "hylians"
+	culture = "goron"
+	culture = "korok"
+}
+2100012 = {
+	name = "of Tabantha"
+	culture = "hylians"
+	culture = "rito"
+}
+2100013 = {
+	name = "of Faron"
+	culture = "hylians"
+}
+2100014 = {
+	name = "of Gerudo Desert"
+	culture = "gerudo"
+}
+2100015 = {
+	name = "of Necluda"
+	culture = "hylians"
+	culture = "sheika"
+}
+2100016 = {
+	name = "of Lanayru"
+	culture = "hylians"
+	culture = "zora"
+}
+2100017 = {
+	name = "of Hebra"
+	culture = "rito"
+	culture = "hylians"
+}
+2100018 = {
+	name = "of Rospro"
+	culture = "rito"
+}
+2100019 = {
+	name = "Snowfield"
+	culture = "hylians"
+	culture = "rito"
+}
+2100020 = {
+	name = "Serenne"
+	culture = "hylians"
+}
+2100021 = {
+	name = "Yiga"
+	culture = "yiga"
+	religion = "cult_of_ganon"
+}
+2100022 = {
+	name = "Canyon"
+	culture = "hylians"
+	culture = "gerudo"
+}
+2100023 = {
+	name = "Outskirt"
+	culture = "hylians"
+	culture = "royal_hylians"
+}
+2100024 = {
+	name = "Riverside"
+	culture = "hylians"
+	culture = "royal_hylians"
+}
+2100025 = {
+	name = "Highland"
+	culture = "hylians"
+}
+2100026 = {
+	name = "Lakeside"
+	culture = "hylians"
+}
+2100027 = {
+	name = "of Dueling Peaks"
+	culture = "hylians"
+	culture = "sheika"
+}
+2100028 = {
+	name = "Wetland"
+	culture = "hylians"
+	culture = "zora"
+}
+2100029 = {
+	name = "Woodland"
+	culture = "hylians"
+	culture = "koroks"
+}
+2100030 = {
+	name = "Foothill"
+	culture = "hylians"
+}
+2100031 = {
+	name = "of South Akkala"
+	culture = "hylians"
+	culture = "gorons"
+	culture = "gerudo"
+	culture = "zora"
+	culture = "rito"
+}
+2100032 = {
+	name = "of East Akkala"
+	culture = "hylians"
+	culture = "sheika"
+}
+2100033 = {
+	name = "Quarry"
+	culture = "hylians"
+	culture = "humans"
+}
+2100034 = {
+	name = "of Hyrule Castle Town"
+	culture = "hylians"
+	culture = "humans"
+}
+2100035 = {
+	name = "of Romani Plains"
+	culture = "hylians"
+	culture = "royal_hylians"
+}
+2100036 = {
+	name = "Applean"
+	culture = "hylians"
+	culture = "royal_hylians"
+}
+2100037 = {
+	name = "of Mabe"
+	culture = "hylians"
+	culture = "humans"
+}
+2100038 = {
+	name = "Passeri"
+	culture = "hylians"
+	culture = "humans"
+	culture = "royal_hylians"
+}
+2100039 = {
+	name = "Regencia"
+	culture = "royal_hylians"
+}
+2100040 = {
+	name = "of Giant's Forest"
+	culture = "black_hinox"
+	culture = "korok"
+}
+2100041 = {
+	name = "of Ancient Stump"
+	culture = "korok"
+	culture = "hylians"
+}
+2100042 = {
+	name = "Windvane"
+	culture = "hylians"
+	culture = "royal_hylians"
+	culture = "humans"
+}
+2100043 = {
+	name = "Whistling"
+	culture = "hylians"
+	culture = "humans"
+}
+2100044 = {
+	name = "of Proxim"
+	culture = "hylians"
+	culture = "humans"
+}
+2100045 = {
+	name = "Kolomo"
+	culture = "hylians"
+	culture = "humans"
+}
+2100046 = {
+	name = "of Gatepost"
+	culture = "hylians"
+	culture = "humans"
+}
+2100047 = {
+	name = "Aquame"
+	culture = "hylians"
+	culture = "humans"
+}
+2100048 = {
+	name = "Taobab"
+	culture = "hylians"
+	culture = "gerudo"
+}
+2100049 = {
+	name = "Faloraa"
+	culture = "hylians"
+	culture = "royal_hylians"
+}
+2100050 = {
+	name = "Grinnden"
+	culture = "hylians"
+}
+2100051 = {
+	name = "Pappetto"
+	culture = "korok"
+}
+2100052 = {
+	name = "Parache"
+	culture = "hylians"
+	culture = "royal_hylians"
+}
+2100053 = {
+	name = "Oseira"
+	culture = "gerudo"
+	culture = "hylians"
+}
+2100054 = {
+	name = "Nautelle"
+	culture = "hylians"
+	culture = "gerudo"
+}
+2100055 = {
+	name = "Darybon"
+	culture = "hylians"
+}
+2100056 = {
+	name = "Laverra"
+	culture = "hylians"
+}
+2100057 = {
+	name = "Cora"
+	culture = "hylians"
+	culture = "zora"
+}
+2100058 = {
+	name = "Menoat"
+	culture = "hylians"
+	culture = "royal_hylians"
+	culture = "zora"
+}
+2100059 = {
+	name = "Faron"
+	culture = "Korok"
+}
+2100060 = {
+	name = "Barula"
+	culture = "hylians"
+}
+2100061 = {
+	name = "Harfin"
+	culture = "hylians"
+}
+2100062 = {
+	name = "Haran"
+	culture = "hylians"
+	culture = "zora"
+}
+2100063 = {
+	name = "Fural"
+	culture = "hylians"
+}
+2100064 = {
+	name = "Pagos"
+	culture = "korok"
+}
+2100065 = {
+	name = "Damel"
+	culture = "korok"
+}
+2100066 = {
+	name = "of Farosh"
+	culture = "hylians"
+}
+2100067 = {
+	name = "Guchni"
+	culture = "hylians"
+}
+2100068 = {
+	name = "Sarjon"
+	culture = "korok"
+}
+2100069 = {
+	name = "Bronas"
+	culture = "korok"
+}
+2100070 = {
+	name = "Floria"
+	culture = "zora"
+	culture = "hylians"
+	culture = "royal_hylians"
+}
+2100071 = {
+	name = "Ibara"
+	culture = "hylians"
+}
+2100072 = {
+	name = "Nette"
+	culture = "hylians"
+}
+2100073 = {
+	name = "Ubota"
+	culture = "hylians"
+}
+2100074 = {
+	name = "Herin"
+	culture = "hylians"
+}
+2100075 = {
+	name = "Ebara"
+	culture = "korok"
+}
+2100076 = {
+	name = "Rassla"
+	culture = "hylians"
+}
+2100077 = {
+	name = "Aris"
+	culture = "zora"
+	culture = "hylians"
+}
+2100078 = {
+	name = "Komo"
+	culture = "zora"
+	culture = "hylians"
+}
+2100079 = {
+	name = "Atun"
+	culture = "hylian"
+}
+2100080 = {
+	name = "Temto"
+	culture = "hylian"
+}
+2100081 = {
+	name = "Tuft"
+	culture = "rito"
+	culture = "hylians"
+}
+2100082 = {
+	name = "Clarnet"
+	culture = "hylians"
+}
+2100083 = {
+	name = "Yambi"
+	culture = "hylians"
+}
+2100084 = {
+	name = "Korne"
+	culture = "hylians"
+}
+2100085 = {
+	name = "Rimba"
+	culture = "hylians"
+}
+2100086 = {
+	name = "Gogobi"
+	culture = "hylians"
+}
+2100087 = {
+	name = "Cresia"
+	culture = "hylians"
+	culture = "royal_hylians"
+}
+2100088 = {
+	name = "Soka"
+	culture = "hylians"
+}
+2100089 = {
+	name = "Eventide"
+	culture = "rito"
+}
