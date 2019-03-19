@@ -1,0 +1,65 @@
+culture_is_hylian_trigger = {
+    custom_tooltip = {
+        text = culture_is_hylian_trigger_tooltip 
+        hidden_trigger = {
+            OR = {
+                culture_group = hylian
+            }
+        }
+    }
+}
+
+culture_is_goron_trigger = {
+    custom_tooltip = {
+        text = culture_is_goron_trigger_tooltip 
+        hidden_trigger = {
+            OR = {
+                culture_group = goron
+            }
+        }
+    }
+}
+
+culture_is_zora_trigger = {
+    custom_tooltip = {
+        text = culture_is_zora_trigger_tooltip 
+        hidden_trigger = {
+            OR = {
+                culture_group = zora
+            }
+        }
+    }
+}
+
+culture_is_rito_trigger = {
+    custom_tooltip = {
+        text = culture_is_rito_trigger_tooltip 
+        hidden_trigger = {
+            OR = {
+                culture_group = rito
+            }
+        }
+    }
+}
+
+culture_is_gerudo_trigger = {
+    custom_tooltip = {
+        text = culture_is_gerudo_trigger_tooltip 
+        hidden_trigger = {
+            OR = {
+                culture_group = gerudo
+            }
+        }
+    }
+}
+
+culture_is_human_trigger = {
+    custom_tooltip = {
+        text = culture_is_human_trigger_tooltip 
+        hidden_trigger = {
+            OR = {
+                culture_group = human
+            }
+        }
+    }
+}
