@@ -63,3 +63,23 @@ culture_is_human_trigger = {
         }
     }
 }
+culture_is_monster_trigger = {
+    custom_tooltip = {
+        text = culture_is_human_trigger_tooltip 
+        hidden_trigger = {
+            OR = {
+                culture_group = monster
+            }
+        }
+    }
+}
+culture_is_otherworlders_trigger = {
+    custom_tooltip = {
+        text = culture_is_human_trigger_tooltip 
+        hidden_trigger = {
+            OR = {
+                culture_group = otherworlders
+            }
+        }
+    }
+}

@@ -428,3 +428,162 @@
 	name = "Eventide"
 	culture = "rito"
 }
+2100090 = {
+	name = "of Deya"
+	culture = "hylians"
+	culture = "humans"
+}
+2100091 = {
+	name = "Deya"
+	culture = "zora"
+}
+2100091 = {
+	name = "Baumer"
+	culture = "hylian"
+}
+2100092 = {
+	name = "Popla"
+	culture = "hylian"
+	culture = "human"
+}
+2100093 = {
+	name = "Jia"
+	culture = "sheika"
+	culture = "hylians"
+}
+2100094 = {
+	name = "Keelay"
+	culture = "hylians"
+}
+2100095 = {
+	name = "Breman"
+	culture = "sheika"
+	culture = "hylians"
+}
+2100096 = {
+	name = "Meda"
+	culture = "sheika"
+	culture = "hylians"
+}
+2100097 = {
+	name = "Koto"
+	culture = "sheika"
+	culture = "hylians"
+}
+2100098 = {
+	name = "Hanu"
+	culture = "sheika"
+	culture = "hylians"
+}
+2100099 = {
+	name = "Rabella"
+	culture = "sheika"
+	culture = "hylians"
+}
+2100100 = {
+	name = "Taran"
+	culture = "sheika"
+	culture = "hylians"
+}
+2100101 = {
+	name = "Dunsel"
+	culture = "hylians"
+}
+2100102 = {
+	name = "Cales"
+	culture = "hylians"
+}
+2100103 = {
+	name = "Batrea"
+	culture = "hylians"
+}
+2100104 = {
+	name = "Nabi"
+	culture = "hylians"
+	culture = "zora"
+}
+2100105 = {
+	name = "Bubinga"
+	culture = "sheika"
+	culture = "hylians"
+	culture = "korok"
+}
+2100106 = {
+	name = "Hickaly"
+	culture = "sheika"
+	culture = "hylians"
+	culture = "korok"
+}
+2100107 = {
+	name = "Siela"
+	culture = "sheika"
+	culture = "hylians"
+	culture = "zora"
+}
+2100108 = {
+	name = "Rozudo"
+	culture = "sheika"
+	culture = "hylians"
+}
+2100109 = {
+	name = "Marblod"
+	culture = "sheika"
+	culture = "hylians"
+}
+2100110 = {
+	name = "Firly"
+	culture = "sheika"
+	culture = "hylians"
+}
+2100111 = {
+	name = "Jarrah"
+	culture = "sheika"
+	culture = "hylians"
+}
+2100112 = {
+	name = "Midla"
+	culture = "sheika"
+	culture = "hylians"
+	culture = "korok"
+}
+2100113 = {
+	name = "Ginner"
+	culture = "sheika"
+	culture = "hylians"
+	culture = "korok"
+}
+2100114 = {
+	name = "Zelkoa"
+	culture = "sheika"
+	culture = "hylians"
+}
+2100115 = {
+	name = "Nirvata"
+	culture = "sheika"
+	culture = "hylians"
+}
+2100116 = {
+	name = "Ovli"
+	culture = "sheika"
+	culture = "hylians"
+}
+2100117 = {
+	name = "Levia"
+	culture = "sheika"
+}
+2100118 = {
+	name = "Telta"
+	culture = "sheika"
+}
+2100119 = {
+	name = "Quatta"
+	culture = "sheika"
+}
+2100120 = {
+	name = "Rikoka"
+	culture = "sheika"
+}
+2100121 = {
+	name = "Sahasra"
+	culture = "sheika"
+}

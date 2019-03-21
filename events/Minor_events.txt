@@ -5,7 +5,7 @@ character_event = {
 	id = TLOZ.01 #Fairy offers to heal the character
 	desc = EVTDESCTLOZ.01
 	picture = GFX_evt_comet
-	border = GFT_event_normal_frame_religion
+	border = GFX_event_normal_frame_religion
 	
 	min_age = 10
 	only_capable = yes
@@ -16,7 +16,7 @@ character_event = {
 	trigger = {
 			trait = wounded
 			OR = {
-				 trait = severely_wounded
+				 trait = severely_injured
 				 }
 			}
 	 
@@ -31,9 +31,9 @@ character_event = {
 	option = {
 		name = EVTOPTBTLOZ.01 #Character accepts (severely wounded)
 	 	trigger= {
-	 		trait = severely_wounded
+	 		trait = severely_injured
 	 	}
-		remove_trait = severely_wounded
+		remove_trait = severely_injured
 		piety = -200
 		}
 	option = {
@@ -51,84 +51,14 @@ character_event = {
 	#}
 }
 
-province_event = {
-	id =TLOZ.02 #Poes are haunting a province
-	desc = EVTDESCTLOZ.02
-	picture = GFX_evt_war
-	border = GFT_event_normal_frame_religion
-	
-	only_playable = yes
-	only_capable = no
-	is_triggered_only = yes
-	prisoner = no
-	religion_group = hyrulean_triforce
-	 
-	 option = {
-	 	name = EVTOPTATLOZ.02 #Terrible!
-	 	trait=zealous
-	 	province_modifier = poe_haunted
-	 	hidden_tooltip = { province_event = { id = TLOZ03 days = 10} }
-		}
-	option = {
-		name = EVTOPTBTLOZ.02 #Doesn't believe in ghosts
-		trait = cynical
-		province_modifier = poe_haunted
-		hidden_tooltip = { province_event = { id = TLOZ03 days = 20}}
-		}
-}
 
-province_event = {
-	id =TLOZ.03 #Hunt down the poe
-	desc = EVTDESCTLOZ.03
-	picture = GFX_evt_war
-	border = GFT_event_normal_frame_religion
-	
-	only_playable = yes
-	only_capable = no
-	is_triggered_only = yes
-	prisoner = no
-	religion_group = hyrulean_triforce
 
-	trigger = {
-		province_modifier = poe_haunted
-	}
-	 
-	 option = {
-	 	name = EVTOPTATLOZ.03 #I will send a small force to capture them!
-	 	wealth = -25
-	 	random = {
-	 		chance = 25
-        	remove_province_modifier = poe_haunted
-        	}
-        random = {
-        	chance = 75
-        	hidden_tooltip = {province_event = TLOZ08 day = 7}
-        }
-		}
-	option = {
-		name = EVTOPTBTLOZ.03 #I will send a large force
-		wealth = -50
-		random = {
-			chance = 50
-			remove_province_modifier = poe_haunted
-			}
-		random = {
-        	chance = 50
-        	hidden_tooltip = {province_event = TLOZ.08 day = 14}
-        }
-		}
-	option = {
-		name = EVTOPTCTLOZ.03 #All of my army shall take care of this
-		wealth = -100
-		remove_province_modifier = poe_haunted
-		}
-}
-
+namespace = TLOZ
 character_event = {
 	id =TLOZ.04 #Gift of the Picori
 	desc = EVTDESCTLOZ.04
 	picture = GFX_evt_religion
-	border = GFT_event_normal_frame_religion
+	border = GFX_event_normal_frame_religion
 	
 	only_playable = yes
 	only_capable = yes
@@ -160,12 +90,13 @@ character_event = {
 	id =TLOZ.05 #Your weapon feels weird
 	desc = EVTDESCTLOZ.05
 	picture = GFX_evt_war
-	border = GFT_event_normal_frame_war
+	border = GFX_event_normal_frame_war
 	
 	only_playable = yes
 	only_capable = yes
 	prisoner = no
 	religion_group = hyrulean_triforce
+	is_triggered_only = yes
 	in_command = yes
 	has_artifact = yes
 	quality =1
@@ -187,12 +118,13 @@ character_event = {
 	id =TLOZ.06 #Your weapon feels weird quality 2
 	desc = EVTDESCTLOZ.06
 	picture = GFX_evt_war
-	border = GFT_event_normal_frame_war
+	border = GFX_event_normal_frame_war
 	
 	only_playable = yes
 	only_capable = yes
 	prisoner = no
 	religion_group = hyrulean_triforce
+	is_triggered_only = yes
 	in_command = yes
 	has_artifact = yes
 	quality =2
@@ -214,12 +146,13 @@ character_event = {
 	id =TLOZ.07 #Your weapon feels weird quality 3
 	desc = EVTDESCTLOZ.07
 	picture = GFX_evt_war
-	border = GFT_event_normal_frame_war
+	border = GFX_event_normal_frame_war
 	
 	only_playable = yes
 	only_capable = yes
 	prisoner = no
 	religion_group = hyrulean_triforce
+	is_triggered_only = yes
 	in_command = yes
 	has_artifact = yes
 	quality = 3
@@ -241,12 +174,13 @@ province_event = {
 	id =TLOZ.08 #Poe haunting gets worse
 	desc = EVTDESCTLOZ.08
 	picture = GFX_evt_war
-	border = GFT_event_normal_frame_religion
+	border = GFX_event_normal_frame_religion
 	
 	only_playable = yes
 	only_capable = no
 	prisoner = no
 	religion_group = hyrulean_triforce
+	is_triggered_only = yes
 	 
 	 option = {
 	 	name = EVTOPTATLOZ08 #My worst nightmare!
@@ -277,12 +211,13 @@ province_event = {
 	id =TLOZ.09 #Exterminate the Poes
 	desc = EVTDESCTLOZ.09
 	picture = GFX_evt_war
-	border = GFT_event_normal_frame_religion
+	border = GFX_event_normal_frame_religion
 	
 	only_playable = yes
 	only_capable = no
 	prisoner = no
 	religion_group = hyrulean_triforce
+	is_triggered_only = yes
 
 	trigger = {
 		province_modifier = severe_poe_haunting
