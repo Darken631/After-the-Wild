@@ -1,0 +1,71 @@
+hero = {
+	sex_appeal_opinion = 20
+	martial = 5
+	combat_rating = 30
+	monthly_character_prestige = 2
+	faith_of_the_golden_goddesses_opinion = 25
+	faith_of_the_tracks_opinion = 20
+	church_opinion = 15
+
+	command_modifier = {
+		center = 1
+		flank = 0.75
+		retreat = 0.5
+		terrain = plains
+	}
+
+	customizer = no
+}
+
+miphas_grace = {
+	combat_rating = 5
+	health = 1
+	monthly_character_prestige = 1
+	culture_zora_opinion = 20
+
+	command_modifier = {
+	center = 0.5
+	flank = 0.5
+	retrat = 0.25
+	terrain = hills
+	}
+}
+
+daruks_shield = {
+	combat_rating = 15
+	monthly_character_prestige = 1
+	culture_goron_opinion = 20
+
+	command_modifier = {
+	center = 0.5
+	flank = 1
+	retrat = 0.75
+	terrain = mountains
+	}
+}
+
+revalis_gale = {
+	combat_rating = 10
+	monthly_character_prestige = 1
+	culture_rito_opinion = 20
+
+	command_modifier = {
+	center = 0.5
+	flank = 0.75
+	retrat = 1
+	terrain = mountains
+	}
+}
+
+urbosas_fury = {
+	combat_rating = 20
+	monthly_character_prestige = 1
+	culture_rito_opinion = 20
+
+	command_modifier = {
+	center = 1
+	flank = 0.75
+	retrat = 0.5
+	terrain = desert
+	}
+}

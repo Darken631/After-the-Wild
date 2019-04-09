@@ -348,7 +348,7 @@ terminean = {
 	
 }
 
-hylian_demon_worshippers_group = {
+hylian_dark_cults = {
 	has_coa_on_barony_only = yes
 	graphical_culture = pagangfx
 	playable = yes

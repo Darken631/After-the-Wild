@@ -7,7 +7,7 @@
 2100001 = {
 	name = "of Hateno"
 	culture = "hylians"
-	relgion = "faith_of_the_golden_goddesses"
+	religion = "faith_of_the_golden_goddesses"
 }
 2100002 = {
 	name = "of Zora's Domain"
