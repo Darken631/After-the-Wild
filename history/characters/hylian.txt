@@ -47,6 +47,11 @@
 	learning = 7
 	intrigue = 5
 	trait = "brilliant_strategist"
+	trait = "miphas_grace"
+	trait = "revalis_gale"
+	trait = "daruks_shield"
+	trait = "urbosas_fury"
+	trait = "hero"
 	trait = "strong"
 	trait = "quick"
 	trait = "sturdy"
